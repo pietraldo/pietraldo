@@ -3,7 +3,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/pietraldo/count.svg)
 
 ## Projects
-- [Chess engine](https://github.com/pietraldo/chess_engine) - powerful C++ chess engine
+- [Chess engine](https://github.com/pietraldo/chess_engine) - powerful C++ chess engine and contributor in [Jlisowskyy Checkmate-Chariot](https://github.com/Jlisowskyy/Checkmate-Chariot)
 - [Chess gui](https://github.com/pietraldo/Chess-GUI) -  UCI-compatible chess interface
 - [Surface render](https://github.com/pietraldo/generating_surface) -  Bézier surface with light reflections
 - [Network chat](https://github.com/pietraldo/network_chat) - network chat

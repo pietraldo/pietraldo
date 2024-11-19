@@ -2,12 +2,14 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/pietraldo/count.svg)
 
-## Areas of intrest
-
-I'm mostly focused on developing new skills and expanding old ones within this areas:
-
-
 ## Projects
+- [Chess engine](https://github.com/pietraldo/chess_engine) - powerful C++ chess engine
+- [Chess gui](https://github.com/pietraldo/Chess-GUI) -  UCI-compatible chess interface
+- [Surface render](https://github.com/pietraldo/generating_surface) -  Bézier surface with light reflections
+- [Network chat](https://github.com/pietraldo/network_chat) - network chat
+- [Airport management system](https://github.com/pietraldo/Airport-Management-System) -  manage airports and flights
+- [Honey shop](https://miodyzwawra.pl/) - online honey store
+- [Sudoku solver](https://github.com/pietraldo/sudoku-solver) - program that solves sudoku in c
 
 ## Top languages
 <p align="center">
@@ -16,4 +18,4 @@ I'm mostly focused on developing new skills and expanding old ones within this a
 
 ## Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,c,cpp,cs,java,cmake,py,fastapi,git,github,html,css,js,nodejs,react,ts,flutter,dart&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,azure,bash,c,cs,cpp,cmake,css,dotnet,git,html,js,linux,matlab,mysql,nodejs,npm,powershell,py,pytorch,react,clion,visualstudio&theme=dark&perline=10)](https://skillicons.dev)
